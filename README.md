@@ -1,4 +1,4 @@
 # domicon_web
- ## npm instsall
+ ## npm install
  ## npm run serve
  ## npm run build
