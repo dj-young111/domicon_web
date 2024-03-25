@@ -1,1 +1,4 @@
-# omicon_web
+# domicon_web
+ ## npm instsall
+ ## npm run serve
+ ## npm run build
